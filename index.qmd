@@ -1,6 +1,6 @@
 ---
 title: "Evan Muise"
-image: media/Bud1.jpg
+image: media/Bud1.png
 about:
   template: trestles
   image-shape: round
