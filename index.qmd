@@ -9,9 +9,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/evanmuise/?originalSubdomain=ca
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/evanmuise
+    - text: Bluesky
+      href: https://bsky.app/profile/muise.bsky.social
     - icon: github
       text: GitHub
       href: https://github.com/emuise
