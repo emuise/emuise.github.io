@@ -12,7 +12,13 @@ GIS Certificate - Dalhousie University, 2020
 
 # Publications
 
-**Muise, E.R.**, Coops, N.C., Mulverhill, C., Hermosilla, T., Burton, A.C., Ban, S.S., 2025. Cumulative and component impacts of the human footprint on remotely sensed biodiversity indicators using dissimilarity to high integrity reference states. International Journal of Applied Earth Observation and Geoinformation (Submitted February 21, 2025).
+**Muise, E.R.**, Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S. Calculating forest ecological integrity from satellite-derived forest structure and functional attributes across a variety of ecosystems. Remote Sensing in Ecology and Conservation (In Prep).
+
+Qi, Y., Coops, N.C., Daniels, L.D., Hermosilla, T., **Muise, E.R.**, Characterizing multidecadal trends in contemporary small and large wildfires across British Columbia using annual time series satellite imagery. International Journal of Applied Earth Observation and Geoinformation (In Prep).
+
+Raymond, C.V., Slein, M.A., **Muise, E.R.**, O'Connor, M.I. Recreational boating diminishes eelgrass foundation species function and associated biodiversity. Estuaries and Coasts (In Prep).
+
+**Muise, E.R.**, Coops, N.C., Mulverhill, C., Hermosilla, T., Burton, A.C., Ban, S.S. Cumulative and component impacts of the human footprint on remotely sensed biodiversity indicators using dissimilarity to high integrity reference states. International Journal of Applied Earth Observation and Geoinformation (Submitted February 21, 2025).
 
 Shen, X., Cao, L., Ma, Y., Coops, N.C., **Muise, E.R.**, Wang, G., Cao, F., 2025. Estimating structure of understory bamboo for giant panda habitat by developing an advanced vertical vegetation classification approach using UAS-LiDAR data. International Journal of Applied Earth Observation and Geoinformation 136, 104304. <https://doi.org/10.1016/j.jag.2024.104304>
 
@@ -22,11 +28,11 @@ Shen, X., Cao, L., Ma, Y., Coops, N.C., **Muise, E.R.**, Wang, G., Cao, F., 2025
 
 # Presentations
 
-**Muise, E.R.**, Nicholas Coops, Chris Mulverhill, Txomin Hermosilla (2024). Estimating the integrated and individual impacts of the human footprint on forest ecosystem structure and function. ForestSAT. September 9th-13th, 2024. Rotorua, New Zealand.
+**Muise, E.R.**, Coops, N.C., Mulverhill, C., Hermosilla, T. (2024). Estimating the integrated and individual impacts of the human footprint on forest ecosystem structure and function. ForestSAT. September 9th-13th, 2024. Rotorua, New Zealand.
 
-**Muise, E.R.**, Nicholas Coops, Txomin Hermosilla, Stephen Ban. (2022). Monitoring forest structural representation across a network of protected areas. ForestSAT. August 29th - September 3rd, 2024. Berlin, Germany.
+**Muise, E.R.**, Coops, N.C., Hermosilla, T., Ban, S.S. (2022). Monitoring forest structural representation across a network of protected areas. ForestSAT. August 29th - September 3rd, 2024. Berlin, Germany.
 
-**Muise, E.R.**, Nicholas Coops (2020). Documenting structural land cover change and disturbance across provincial BC parks for biodiversity assessment. BC Park's Living Lab Colloquium. December 1st, 2020. Victoria, Canada.
+**Muise, E.R.**, Coops, N.C. (2020). Documenting structural land cover change and disturbance across provincial BC parks for biodiversity assessment. BC Park's Living Lab Colloquium. December 1st, 2020. Victoria, Canada.
 
 # Awards
 
@@ -42,6 +48,6 @@ NSERC Undergrad Student Research Awards, 2018
 
 Junior Program Officer (PM-01) - Natural Resources Canada, Sept 2018 - May 2019
 
-Urban Forest Research Assistant - REMLab - Faculty of Management - Dalhousie University, May 2018 to Sept 2018
+Urban Forest Research Assistant - REMLab - Faculty of Management - Dalhousie University, May 2018 - Sept 2018
 
 # 
