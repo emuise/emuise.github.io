@@ -26,7 +26,6 @@ Shen, X., Cao, L., Ma, Y., Coops, N.C., **Muise, E.R.**, Wang, G., Cao, F., 2025
 
 **Muise, E.R.**, Coops, N.C., Hermosilla, T., Ban, S.S., 2022. Assessing representation of remote sensing derived forest structure and land cover across a network of protected areas. Ecological Applications 32, e2603. <https://doi.org/10.1002/eap.2603>
 
-
 # Presentations
 
 **Muise, E.R.**, Coops, N.C., Mulverhill, C., Hermosilla, T. (2024). Estimating the integrated and individual impacts of the human footprint on forest ecosystem structure and function. ForestSAT. September 9th-13th, 2024. Rotorua, New Zealand.
