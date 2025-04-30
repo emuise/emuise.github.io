@@ -14,9 +14,9 @@ GIS Certificate - Dalhousie University, 2020
 
 **Muise, E.R.**, Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S. Calculating forest ecological integrity from satellite-derived forest structure and functional attributes across a variety of ecosystems. Remote Sensing in Ecology and Conservation (In Prep).
 
-Qi, Y., Coops, N.C., Daniels, L.D., Hermosilla, T., **Muise, E.R.**, Characterizing multidecadal trends in contemporary small and large wildfires across British Columbia using annual time series satellite imagery. International Journal of Applied Earth Observation and Geoinformation (In Prep).
-
 Raymond, C.V., Slein, M.A., **Muise, E.R.**, O'Connor, M.I. Recreational boating diminishes eelgrass foundation species function and associated biodiversity. Estuaries and Coasts (In Prep).
+
+Qi, Y., Coops, N.C., Daniels, L.D., Hermosilla, T., **Muise, E.R.**, Characterizing multidecadal trends in contemporary small and large wildfires across British Columbia using annual time series satellite imagery. International Journal of Applied Earth Observation and Geoinformation (Submitted April 29th, 2025).
 
 **Muise, E.R.**, Coops, N.C., Mulverhill, C., Hermosilla, T., Burton, A.C., Ban, S.S. Cumulative and component impacts of the human footprint on remotely sensed biodiversity indicators using dissimilarity to high integrity reference states. International Journal of Applied Earth Observation and Geoinformation (Submitted February 21, 2025).
 
@@ -25,6 +25,7 @@ Shen, X., Cao, L., Ma, Y., Coops, N.C., **Muise, E.R.**, Wang, G., Cao, F., 2025
 **Muise, E.R**., Andrew, M.E., Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S., 2024. Disentangling linkages between satellite-derived indicators of forest structure and productivity for ecosystem monitoring. Scientific Reports 14, 13717. <https://doi.org/10.1038/s41598-024-64615-2>
 
 **Muise, E.R.**, Coops, N.C., Hermosilla, T., Ban, S.S., 2022. Assessing representation of remote sensing derived forest structure and land cover across a network of protected areas. Ecological Applications 32, e2603. <https://doi.org/10.1002/eap.2603>
+
 
 # Presentations
 
