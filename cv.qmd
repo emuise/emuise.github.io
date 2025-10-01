@@ -2,6 +2,8 @@
 title: "Curriculum Vitae"
 ---
 
+I am currently a Forest Carbon Analyst (PC-02) with the Pacific Forestry Centre at Natural Resources Canada.
+
 # Education
 
 PhD. Forestry - Department of Forest Resources Management, University of British Columbia, 2025
@@ -12,9 +14,11 @@ GIS Certificate - Dalhousie University, 2020
 
 # Publications
 
-**Muise, E.R.**, Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S. Calculating forest ecological integrity from satellite-derived forest structure and functional attributes across a variety of ecosystems. Remote Sensing in Ecology and Conservation (In Prep).
+Baron, J.N., **Muise, E.R.**, et al. Historical Natural Fire Regimes of British Columbia: A New Approach. (In Prep)
 
 Raymond, C.V., Slein, M.A., **Muise, E.R.**, O'Connor, M.I. Recreational boating diminishes eelgrass foundation species function and associated biodiversity. Estuaries and Coasts (In Prep).
+
+**Muise, E.R.**, Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S. Calculating forest ecological integrity from satellite-derived forest structure and functional attributes across a variety of ecosystems. Remote Sensing in Ecology and Conservation (Submitted June 22nd, 2025).
 
 Qi, Y., Coops, N.C., Daniels, L.D., Hermosilla, T., **Muise, E.R.**, Characterizing multidecadal trends in contemporary small and large wildfires across British Columbia using annual time series satellite imagery. International Journal of Applied Earth Observation and Geoinformation (Submitted April 29th, 2025).
 

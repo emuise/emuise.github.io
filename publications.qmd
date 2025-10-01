@@ -3,11 +3,13 @@ title: "Publications"
 bibliography: references.bib
 ---
 
-Here are the papers I have been involved in!
+Here are the papers I am working on or have been involved in!
 
-**Muise, E.R.**, Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S. Calculating forest ecological integrity from satellite-derived forest structure and functional attributes across a variety of ecosystems. Remote Sensing in Ecology and Conservation (In Prep).
+Baron, J.N., **Muise, E.R.**, et al. Historical Natural Fire Regimes of British Columbia: A New Approach. (In Prep)
 
 Raymond, C.V., Slein, M.A., **Muise, E.R.**, O'Connor, M.I. Recreational boating diminishes eelgrass foundation species function and associated biodiversity. Estuaries and Coasts (In Prep).
+
+**Muise, E.R.**, Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S. Calculating forest ecological integrity from satellite-derived forest structure and functional attributes across a variety of ecosystems. Remote Sensing in Ecology and Conservation (Submitted June 22nd, 2025).
 
 Qi, Y., Coops, N.C., Daniels, L.D., Hermosilla, T., **Muise, E.R.**, Characterizing multidecadal trends in contemporary small and large wildfires across British Columbia using annual time series satellite imagery. International Journal of Applied Earth Observation and Geoinformation (Submitted April 29th, 2025).
 
