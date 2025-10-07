@@ -13,7 +13,7 @@ Raymond, C.V., Slein, M.A., **Muise, E.R.**, O'Connor, M.I. Recreational boating
 
 Qi, Y., Coops, N.C., Daniels, L.D., Hermosilla, T., **Muise, E.R.**, Characterizing multidecadal trends in contemporary small and large wildfires across British Columbia using annual time series satellite imagery. International Journal of Applied Earth Observation and Geoinformation (Submitted April 29th, 2025).
 
-**Muise, E.R.**, Coops, N.C., Mulverhill, C., Hermosilla, T., Burton, A.C., Ban, S.S. Cumulative and component impacts of the human footprint on remotely sensed biodiversity indicators using dissimilarity to high integrity reference states. International Journal of Applied Earth Observation and Geoinformation (Submitted February 21, 2025).
+**Muise, E.R.**, Coops, N.C., Mulverhill, C., Hermosilla, T., Burton, A.C., Ban, S.S. (in press). Cumulative and component impacts of the human footprint on remotely sensed biodiversity indicators using dissimilarity to high integrity reference states. International Journal of Applied Earth Observation and Geoinformation.
 
 Shen, X., Cao, L., Ma, Y., Coops, N.C., **Muise, E.R.**, Wang, G., Cao, F., 2025. Estimating structure of understory bamboo for giant panda habitat by developing an advanced vertical vegetation classification approach using UAS-LiDAR data. International Journal of Applied Earth Observation and Geoinformation 136, 104304. <https://doi.org/10.1016/j.jag.2024.104304>
 
